@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/IAFahim.DS.PerfectHashMap/IAFahim.DS.PerfectHashMap.csproj" />
+  </Folder>
+  <Folder Name="/src/IAFahim.DS.PerfectHashMap/" />
+  <Folder Name="/src/IAFahim.DS.PerfectHashMap/src-deps/">
+    <Project Path="src/IAFahim.DS.PerfectHashMap/src-deps/IAFahim.Collections.NoDeps/IAFahim.Collections.NoDeps.csproj" />
+  </Folder>
+</Solution>
